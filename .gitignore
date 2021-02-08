@@ -1,0 +1,11 @@
+.settings
+Debug
+Drivers
+Middleware/ST/STM32_USB_Host_Library
+USB_HOST
+.cproject
+.mxproject
+.project
+FSAE_Pedal_2.0 Debug.launch
+STM32F407VGTX_FLASH.ld
+STM32F407VGTX_RAM.ld
