@@ -2,8 +2,8 @@
 
 This project is for UVic's FSAE electric team.
 
-As of 2021-01-28, this program take input data from a linear position sensor (the throttle pedal),
-converts the input to a percentage-activated,
+As of 2021-01-28, this program takes an analog signal from a linear position sensor (the throttle pedal),
+converts the signal to percentage-pedal-activated,
 then applies a throttle-mapping algorithm.
 Finally, a requested torque value is outputted.
 
