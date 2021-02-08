@@ -9,3 +9,5 @@ USB_HOST
 UVic_FSAE_Throttle Debug.launch
 STM32F407VGTX_FLASH.ld
 STM32F407VGTX_RAM.ld
+Core/Inc
+Core/Startup
