@@ -1,4 +1,4 @@
-# FSAE_Pedal_2.0
+# UVic_FSAE_Throttle
 
 This project is for UVic's FSAE electric team.
 
@@ -9,5 +9,5 @@ Finally, a requested torque value is outputted.
 
 Currently, the throttle-map algorithm is naive and doesn't take into account the velocity of the vehicle.
 
-FSAE_Pedal_2.0.ioc is the pinout.
-FSAE_Pedal_2.0/core/src/main.c is the code.
+UVic_FSAE_Throttle.ioc is the pinout.
+UVic_FSAE_Throttle/core/src/main.c is the code.
