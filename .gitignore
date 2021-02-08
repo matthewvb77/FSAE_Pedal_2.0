@@ -9,3 +9,5 @@ USB_HOST
 FSAE_Pedal_2.0 Debug.launch
 STM32F407VGTX_FLASH.ld
 STM32F407VGTX_RAM.ld
+Core/Startup
+Core/Inc
