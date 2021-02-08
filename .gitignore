@@ -1,7 +1,7 @@
 .settings
 Debug
 Drivers
-Middleware/ST/STM32_USB_Host_Library
+Middlewares
 USB_HOST
 .cproject
 .mxproject
